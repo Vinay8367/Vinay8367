@@ -86,13 +86,14 @@ class AIArchitect {
 
 ---
 
-## `// tech.arsenal`
 
-<div align="center">
 
-<!-- Languages -->
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css&theme=dark" />
+# 🧠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,java,html,css,react,nodejs,express,mongodb,tensorflow,git,vscode"/>
+
 </p>
 
 <!-- AI/ML & Frameworks -->
@@ -118,7 +119,7 @@ class AIArchitect {
 
 ---
 
-## `// featured.projects`
+## `PROJECTS`
 
 <div align="center">
 
@@ -215,7 +216,7 @@ class AIArchitect {
 
 ---
 
-## `// performance.metrics`
+## ` PERFORMANCE`
 
 <div align="center">
 
@@ -240,7 +241,7 @@ class AIArchitect {
 
 ---
 
-## `// trophy.case`
+## `ACHEIVEMENTS`
 
 <div align="center">
 
@@ -250,7 +251,7 @@ class AIArchitect {
 
 ---
 
-## `// current.focus`
+## `CURRENT FOCUS`
 
 <div align="center">
 
