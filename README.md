@@ -90,11 +90,6 @@ class AIArchitect {
 
 # 🧠 Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,java,html,css,react,nodejs,express,mongodb,tensorflow,git,vscode"/>
-
-</p>
 
 <!-- AI/ML & Frameworks -->
 <p>
@@ -303,8 +298,3 @@ class AIArchitect {
 
 </p>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:111111&section=footer"/>
-
-</div>
