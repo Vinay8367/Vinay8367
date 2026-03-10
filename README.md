@@ -205,15 +205,7 @@ print(vinay.philosophy())
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Vinay8367/Vinay8367/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 🏆 Achievement Vault
 
