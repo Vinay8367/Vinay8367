@@ -1,300 +1,439 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=12,20,24" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,100:111111&text=VINAY%20BATTULA&fontSize=60&fontAlign=50&fontColor=FFD700&animation=fadeIn&desc=AI%20ENGINEER%20%7C%20MERN%20DEVELOPER%20%7C%20AI%20AGENT%20BUILDER&descAlign=50&descSize=18&descAlignY=70"/>
-
-</div>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Creating+Autonomous+Agents;Full+Stack+MERN+Developer;Machine+Learning+Engineer"/>
-
-</p>
-
----
-
-
-
-
-<!-- Socials with Hover Effect -->
-<p align="center">
-  <a href="https://linkedin.com/in/vinaybattula">
-    <img src="https://img.shields.io/badge/🔗_LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=0A0A0A&color=FFD700" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vinaybathula907@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=0A0A0A" alt="Email"/>
-  </a>
-  <a href="https://github.com/Vinay8367">
-    <img src="https://img.shields.io/badge/⚡_GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=0A0A0A" alt="GitHub"/>
-  </a>
-  <a href="https://vinay8367.github.io/portfolio">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=FFD700&labelColor=0A0A0A" alt="Portfolio"/>
-  </a>
-</p>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> `// about.system`
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              VINAY BATTULA — PREMIUM GITHUB PROFILE           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<table>
+<!-- ── HERO BANNER ── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,2,5,30&section=header&text=Vinay%20Battula&fontSize=62&fontColor=F5F0E8&fontAlign=50&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20MERN%20Developer%20%E2%80%A2%20AI%20Agent%20Builder&descSize=17&descColor=D4C5A9&descAlign=50&descAlignY=68&animation=fadeIn" width="100%" alt="Vinay Battula" />
+
+<br/>
+
+<!-- ── CONTACT BADGES ── -->
+<a href="https://linkedin.com/in/vinaybattula">
+  <img src="https://img.shields.io/badge/LinkedIn-Vinay%20Battula-4A7C9E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2C5F7A" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:vinaybathula907@gmail.com">
+  <img src="https://img.shields.io/badge/Email-vinaybathula907-8B6F47?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6B4E2A" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/Vinay8367">
+  <img src="https://img.shields.io/badge/GitHub-Vinay8367-5C7A5C?style=for-the-badge&logo=github&logoColor=white&labelColor=3D5C3D" alt="GitHub"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Phone-+91%208328495664-7A6A5C?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=5A4A3C" alt="Phone"/>
+
+<br/><br/>
+
+<!-- ── TYPING SUBTITLE ── -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=500&size=22&duration=3500&pause=1000&color=8B7355&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Full+Stack+MERN+Developer+%F0%9F%8C%90;Exploring+Generative+AI+%26+Intelligent+Systems+%E2%9C%A8;B.Tech+AI+%26+ML+%E2%80%94+Malla+Reddy+College" alt="Typing SVG"/>
+
+<br/>
+
+<!-- ── PROFILE VIEWS ── -->
+<img src="https://komarev.com/ghpvc/?username=Vinay8367&style=flat-square&color=8B7355&label=Profile+Views&labelColor=F5F0E8" alt="Profile Views"/>
+
+</div>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=gradient&customColorList=0,2,2,5,30&text=%20%20%F0%9F%91%A4%20%20About%20Me%20%20&fontSize=24&fontColor=F5F0E8&fontAlign=50" width="80%"/>
+</div>
+
+<br/>
+
+<table align="center" width="92%">
 <tr>
-<td width="60%" valign="top">
+<td valign="top" width="58%">
 
-```typescript
-class AIArchitect {
-  name: string = "Vinay Battula";
-  role: string = "Intelligent Systems Engineer";
-  location: string = "India 🇮🇳";
-  education: string = "B.Tech AI & ML";
-  
-  currentStack = {
-    ai_frameworks: ["LangChain", "LangGraph", "CrewAI", "AutoGen"],
-    ml_core: ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV"],
-    fullstack: ["MERN", "Next.js", "TypeScript", "FastAPI"],
-    databases: ["MongoDB", "PostgreSQL", "Vector DBs"],
-    devops: ["Docker", "AWS", "CI/CD", "Linux"]
-  };
+### A Bit About Vinay
 
-  mission(): string {
-    return "Architecting autonomous agents that think, 
-            reason, and execute without human intervention";
-  }
-}
+I'm a **B.Tech AI & ML student** at Malla Reddy College of Engineering, passionate about building intelligent, full-stack applications that solve real-world problems. My work sits at the intersection of **Generative AI**, **autonomous agents**, and **modern web development**.
+
+```yaml
+name       : Vinay Battula
+location   : Hyderabad, India 🇮🇳
+education  : B.Tech AI & Machine Learning (2023–2027)
+college    : Malla Reddy College of Engineering
+focus      : AI Agents · MERN Stack · Generative AI
+status     : Open to Internships & Developer Roles ✅
 ```
 
+**Currently exploring:**
+- 🤖 &nbsp; AI Agent architectures & autonomous systems
+- 🧠 &nbsp; Generative AI & Large Language Models  
+- 🌐 &nbsp; Full Stack MERN development
+- 📊 &nbsp; Intelligent data visualisation platforms
+- ☁️ &nbsp; Cloud deployment & scalable APIs
+
 </td>
-<td width="40%" align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" style="border-radius: 15px; box-shadow: 0 0 20px #FFD70040;"/>
-  
-  <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=Vinay8367&style=for-the-badge&color=FFD700&label=SYSTEM+ACCESSES&labelColor=0d0d0d" alt="Profile Views"/>
+<td valign="top" width="42%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay8367&layout=compact&hide_border=true&title_color=8B7355&text_color=5C4A2A&bg_color=FDFAF5&langs_count=8&custom_title=Languages%20I%20Work%20With" width="95%" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/B.Tech_AI_%26_ML-2023--2027-8B7355?style=flat-square&labelColor=F0EBE0" alt="Education"/>
+<img src="https://img.shields.io/badge/CGPA-Strong_Academic_Record-5C7A5C?style=flat-square&labelColor=EBF0EB" alt="CGPA"/>
+<br/>
+<img src="https://img.shields.io/badge/SSC-100%25-4A7C9E?style=flat-square&labelColor=E8EFF5" alt="SSC"/>
+<img src="https://img.shields.io/badge/Intermediate-95.5%25-7A6A9E?style=flat-square&labelColor=EEE8F5" alt="Inter"/>
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
 ---
 
-
-
-# 🧠 Tech Stack
-
-
-<!-- AI/ML & Frameworks -->
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,nodejs,express,mongodb&theme=dark" />
-</p>
-
-<!-- Tools & Cloud -->
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,linux&theme=dark" />
-</p>
-
-<!-- Specialty Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-0d0d0d?style=flat-square&logo=chainlink&logoColor=FFD700&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/LangGraph-0d0d0d?style=flat-square&logo=graph&logoColor=FFD700&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/CrewAI-0d0d0d?style=flat-square&logo=robot&logoColor=FFD700&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/OpenAI-0d0d0d?style=flat-square&logo=openai&logoColor=FFD700&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Streamlit-0d0d0d?style=flat-square&logo=streamlit&logoColor=FFD700&labelColor=1a1a1a" />
-</p>
-
-</div>
-
----
-
-## `PROJECTS`
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     EXPERIENCE TIMELINE                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=gradient&customColorList=0,2,2,5,30&text=%20%20%F0%9F%92%BC%20%20Experience%20%20&fontSize=24&fontColor=F5F0E8&fontAlign=50" width="80%"/>
+</div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌾 Farm-Xpert</h3>
-      <div align="center">
-        <a href="https://github.com/Vinay8367/Farming-">
-          <img src="https://img.shields.io/badge/View_Code-FFD700?style=for-the-badge&logo=github&logoColor=black&color=FFD700" alt="View Code"/>
-        </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Live_Demo-0d0d0d?style=for-the-badge&logo=vercel&logoColor=FFD700" alt="Live Demo"/>
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        <strong>AI-Powered Agricultural Intelligence</strong><br/>
-        Multi-modal ML system delivering crop recommendations, disease detection via computer vision, and yield prediction with 94% accuracy.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Jarvis AI Agent</h3>
-      <div align="center">
-        <a href="https://github.com/Vinay8367">
-          <img src="https://img.shields.io/badge/View_Code-FFD700?style=for-the-badge&logo=github&logoColor=black&color=FFD700" alt="View Code"/>
-        </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Architecture-0d0d0d?style=for-the-badge&logo=diagrams.net&logoColor=FFD700" alt="Architecture"/>
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        <strong>Autonomous Multi-Agent Orchestrator</strong><br/>
-        Self-healing AI agent system built on LangGraph featuring tool use, web search, code execution, and complex reasoning chains.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CrewAI-000000?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏆 Sports Eco + AI</h3>
-      <div align="center">
-        <a href="https://github.com/Vinay8367">
-          <img src="https://img.shields.io/badge/View_Code-FFD700?style=for-the-badge&logo=github&logoColor=black&color=FFD700" alt="View Code"/>
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        <strong>Predictive Sports Analytics Platform</strong><br/>
-        Real-time match prediction engine with player performance analytics. MERN stack architecture with TensorFlow.js integration.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛍️ MERN Ecosystem</h3>
-      <div align="center">
-        <a href="https://github.com/Vinay8367">
-          <img src="https://img.shields.io/badge/View_Code-FFD700?style=for-the-badge&logo=github&logoColor=black&color=FFD700" alt="View Code"/>
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        <strong>Enterprise-Grade E-Commerce Platform</strong><br/>
-        Full-stack marketplace with JWT auth, Stripe payments, Redis caching, admin dashboard, and real-time order tracking.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
+<br/>
+
+<div align="center">
+<table width="88%">
+<tr>
+<td align="center" width="14%">
+<img src="https://img.shields.io/badge/2025-2026-8B7355?style=for-the-badge&labelColor=F0EBE0" alt="Period"/>
+</td>
+<td width="86%">
+
+**💼 Web Development Intern — ProjFuel**
+`Nov 2025 – Mar 2026` &nbsp;|&nbsp; Remote Environment
+
+> Built and maintained MERN Stack websites · Contributed to UI/UX improvements and front-end refinements · Assisted in deployment pipelines and production releases · Collaborated with cross-functional engineering teams in a fully remote setup
+
+**Stack used:** React.js · Node.js · Express.js · MongoDB · REST APIs
+
+</td>
+</tr>
 </table>
-
 </div>
-
----
-
-## ` PERFORMANCE`
-
-<div align="center">
-
-<!-- GitHub Stats Grid -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinay8367&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=c9cacc&bg_color=0d0d0d&ring_color=FFD700&custom_title=GitHub%20Activity%20Metrics" height="180" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay8367&layout=compact&hide_border=true&title_color=FFD700&text_color=c9cacc&bg_color=0d0d0d&langs_count=8&custom_title=Language%20Distribution" height="180" alt="Top Languages" />
-</p>
-
-<!-- Streak Stats -->
-<p>
-  <img src="https://streak-stats.demolab.com?user=Vinay8367&theme=dark&hide_border=true&background=0d0d0d&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=ffffff&sideNums=FFD700&dates=888888&stroke=1a1a1a" height="180" alt="GitHub Streak" />
-</p>
-
-<!-- Activity Graph -->
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay8367&custom_title=Contribution%20Graph&bg_color=0d0d0d&color=FFD700&line=FFD700&point=ffffff&area_color=FFD700&area=true&hide_border=true&radius=8" width="95%" alt="Activity Graph"/>
-</p>
-
-</div>
-
----
-
-## `ACHEIVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vinay8367&theme=onedark&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="95%" alt="Trophy Case"/>
-
-</div>
-
----
-
-## `CURRENT FOCUS`
-
-<div align="center">
-
-```diff
-+ 🧠 Advanced RAG Architectures          [Learning]
-+ ⚡ LangGraph Multi-Agent Systems        [Building]  
-+ 🔮 LLM Fine-tuning (LoRA/QLoRA)        [Exploring]
-+ ☁️ AWS SageMaker & Vertex AI           [Deploying]
-+ 📊 MLOps & Model Monitoring            [Mastering]
-```
-
-</div>
-
----
-
-## `// connect.terminal`
-
-<div align="center">
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/214644145-264f5159-5f8f-4b42-a47c-7f7d35e5ff6f.gif" width="200"/>
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=gradient&customColorList=0,2,2,5,30&text=%20%20%E2%9A%99%EF%B8%8F%20%20Tech%20Stack%20%20&fontSize=24&fontColor=F5F0E8&fontAlign=50" width="80%"/>
+</div>
 
 <br/>
 
-**`> Ready to collaborate on AI Agents, MERN stacks, and intelligent systems.`**
+<div align="center">
+
+<!-- Programming Languages -->
+**`Programming Languages`**
+
+<img src="https://img.shields.io/badge/Python-8B7355?style=for-the-badge&logo=python&logoColor=white&labelColor=6B5235" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-8B7A47?style=for-the-badge&logo=javascript&logoColor=white&labelColor=6B5E27" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C-7A6A5C?style=for-the-badge&logo=c&logoColor=white&labelColor=5A4A3C" alt="C"/>
+
+<br/><br/>
+
+<!-- Frontend -->
+**`Frontend Development`**
+
+<img src="https://img.shields.io/badge/React.js-4A7C9E?style=for-the-badge&logo=react&logoColor=white&labelColor=2C5F7A" alt="React"/>
+<img src="https://img.shields.io/badge/HTML5-8B6040?style=for-the-badge&logo=html5&logoColor=white&labelColor=6B4020" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-4A6A8B?style=for-the-badge&logo=css3&logoColor=white&labelColor=2A4A6B" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-4A8B7A?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=2A6B5A" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/Bootstrap-7A4A8B?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=5A2A6B" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Three.js-5C5C5C?style=for-the-badge&logo=three.js&logoColor=white&labelColor=3C3C3C" alt="Three.js"/>
+
+<br/><br/>
+
+<!-- Backend -->
+**`Backend Development`**
+
+<img src="https://img.shields.io/badge/Node.js-5C7A5C?style=for-the-badge&logo=node.js&logoColor=white&labelColor=3C5C3C" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-5C5C5C?style=for-the-badge&logo=express&logoColor=white&labelColor=3C3C3C" alt="Express.js"/>
+<img src="https://img.shields.io/badge/REST%20APIs-8B7355?style=for-the-badge&logo=postman&logoColor=white&labelColor=6B5235" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/JWT%20Auth-5C5C7A?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=3C3C5A" alt="JWT"/>
+
+<br/><br/>
+
+<!-- Database -->
+**`Database`**
+
+<img src="https://img.shields.io/badge/MongoDB-5C7A5C?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=3C5C3C" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/SQL-4A6A8B?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2A4A6B" alt="SQL"/>
+
+<br/><br/>
+
+<!-- AI & Data -->
+**`AI · Data Science · GenAI`**
+
+<img src="https://img.shields.io/badge/NumPy-4A7C9E?style=for-the-badge&logo=numpy&logoColor=white&labelColor=2C5F7A" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-8B7355?style=for-the-badge&logo=pandas&logoColor=white&labelColor=6B5235" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-5C7A5C?style=for-the-badge&logo=python&logoColor=white&labelColor=3C5C3C" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-7A6A5C?style=for-the-badge&logo=python&logoColor=white&labelColor=5A4A3C" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Generative%20AI-9E4A6A?style=for-the-badge&logo=openai&logoColor=white&labelColor=7E2A4A" alt="GenAI"/>
+
+<br/><br/>
+
+<!-- Tools -->
+**`Tools & Environment`**
+
+<img src="https://img.shields.io/badge/Git-8B5A3C?style=for-the-badge&logo=git&logoColor=white&labelColor=6B3A1C" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-5C5C5C?style=for-the-badge&logo=github&logoColor=white&labelColor=3C3C3C" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20Code-4A7C9E?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=2C5F7A" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Jupyter-8B7355?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=6B5235" alt="Jupyter"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=gradient&customColorList=0,2,2,5,30&text=%20%20%F0%9F%9A%80%20%20Featured%20Projects%20%20&fontSize=24&fontColor=F5F0E8&fontAlign=50" width="80%"/>
+</div>
+
+<br/>
+
+<!-- PROJECT 1 -->
+<div align="center">
+<table width="88%" style="border-radius:12px;">
+<tr>
+<td valign="top" width="6%" align="center"><br/>🌾</td>
+<td valign="top">
+
+**Smart Farming Dashboard with AI Crop Advisor**
+
+A multi-language agricultural intelligence platform powered by AI. Built real-time soil analysis, yield prediction engine, and AI-powered crop recommendation system. Features interactive analytics dashboard, profit calculator, water-type detection, irrigation tips, and climate forecasting.
+
+<img src="https://img.shields.io/badge/Python-8B7355?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/React.js-4A7C9E?style=flat-square&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-5C7A5C?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-5C7A5C?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Generative%20AI-9E4A6A?style=flat-square&logo=openai&logoColor=white" alt="GenAI"/>
+&nbsp;
+<a href="https://github.com/Vinay8367/Farming-"><img src="https://img.shields.io/badge/View%20Code-5C5C5C?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- PROJECT 2 -->
+<div align="center">
+<table width="88%">
+<tr>
+<td valign="top" width="6%" align="center"><br/>💼</td>
+<td valign="top">
+
+**AI-Powered Job Portal Application**
+
+Full-stack job portal with secure JWT authentication, resume upload, profile management, and AI-based job matching through skill analysis. Includes an admin dashboard for managing listings and users, responsive UI optimised across all devices.
+
+<img src="https://img.shields.io/badge/React.js-4A7C9E?style=flat-square&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-5C7A5C?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-5C5C5C?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/MongoDB-5C7A5C?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/JWT%20Auth-5C5C7A?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+&nbsp;
+<a href="https://github.com/Vinay8367"><img src="https://img.shields.io/badge/View%20Code-5C5C5C?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- PROJECT 3 -->
+<div align="center">
+<table width="88%">
+<tr>
+<td valign="top" width="6%" align="center"><br/>🛍️</td>
+<td valign="top">
+
+**MERN E-Commerce Platform**
+
+Modern full-stack e-commerce application built on MERN architecture. Covers complete product management, secure authentication, shopping cart workflow, order management, and a responsive storefront with clean UX.
+
+<img src="https://img.shields.io/badge/React.js-4A7C9E?style=flat-square&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-5C7A5C?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-5C5C5C?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/MongoDB-5C7A5C?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-4A8B7A?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+&nbsp;
+<a href="https://github.com/Vinay8367"><img src="https://img.shields.io/badge/View%20Code-5C5C5C?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CERTIFICATIONS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=gradient&customColorList=0,2,2,5,30&text=%20%20%F0%9F%8F%85%20%20Certifications%20%20&fontSize=24&fontColor=F5F0E8&fontAlign=50" width="80%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NVIDIA%20DLI-Artificial%20Intelligence-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=4A7A00" alt="NVIDIA"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Google-Generative%20AI%20Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1A5FC4" alt="Google"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python%20Programming-Tech%20Agustha-8B7355?style=for-the-badge&logo=python&logoColor=white&labelColor=6B5235" alt="Python Cert"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals%20(Upcoming)-4A7C9E?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=2C5F7A" alt="AI-900"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATISTICS                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=gradient&customColorList=0,2,2,5,30&text=%20%20%F0%9F%93%8A%20%20GitHub%20Statistics%20%20&fontSize=24&fontColor=F5F0E8&fontAlign=50" width="80%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vinay8367&show_icons=true&count_private=true&hide_border=true&title_color=8B7355&icon_color=8B7355&text_color=5C4A2A&bg_color=FDFAF5&custom_title=Vinay%27s%20GitHub%20Activity" height="175" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay8367&layout=compact&hide_border=true&title_color=8B7355&text_color=5C4A2A&bg_color=FDFAF5&langs_count=8&custom_title=Languages" height="175" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<!-- ── STREAK ── -->
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Vinay8367&hide_border=true&background=FDFAF5&ring=8B7355&fire=8B7355&currStreakLabel=8B7355&sideLabels=7A6A5C&currStreakNum=5C4A2A&sideNums=8B7355&dates=9A8A7A&stroke=E8E0D0" alt="GitHub Streak" width="60%"/>
+</div>
+
+<br/>
+
+<!-- ── CONTRIBUTION GRAPH ── -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay8367&custom_title=Contribution%20Activity&bg_color=FDFAF5&color=8B7355&line=8B7355&point=5C4A2A&area_color=D4C5A9&area=true&hide_border=true&radius=8" width="92%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<!-- ── TROPHIES ── -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Vinay8367&theme=flat&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="90%" alt="Trophies"/>
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CURRENT FOCUS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=gradient&customColorList=0,2,2,5,30&text=%20%20%F0%9F%8C%B1%20%20Currently%20Learning%20%20&fontSize=24&fontColor=F5F0E8&fontAlign=50" width="80%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<table width="60%">
+<tr><td>🤖 &nbsp; AI Agent Architectures</td><td align="right"><img src="https://img.shields.io/badge/-Building-5C7A5C?style=flat-square" alt="Building"/></td></tr>
+<tr><td>🧠 &nbsp; Generative AI & LLM Applications</td><td align="right"><img src="https://img.shields.io/badge/-Exploring-4A7C9E?style=flat-square" alt="Exploring"/></td></tr>
+<tr><td>🌐 &nbsp; Advanced MERN Patterns</td><td align="right"><img src="https://img.shields.io/badge/-Practising-8B7355?style=flat-square" alt="Practising"/></td></tr>
+<tr><td>☁️ &nbsp; Cloud Deployment & DevOps Basics</td><td align="right"><img src="https://img.shields.io/badge/-Learning-7A6A5C?style=flat-square" alt="Learning"/></td></tr>
+<tr><td>📊 &nbsp; Data Visualisation & Analytics</td><td align="right"><img src="https://img.shields.io/badge/-Applying-9E7A5C?style=flat-square" alt="Applying"/></td></tr>
+</table>
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CONNECT                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=gradient&customColorList=0,2,2,5,30&text=%20%20%F0%9F%A4%9D%20%20Let%27s%20Connect%20%20&fontSize=24&fontColor=F5F0E8&fontAlign=50" width="80%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<p>I'm actively looking for <strong>internships</strong> and <strong>developer opportunities</strong> in AI, MERN development, and intelligent systems. Open to collaboration on interesting projects too.</p>
 
 <br/>
 
 <a href="https://linkedin.com/in/vinaybattula">
-  <img src="https://img.shields.io/badge/Let's_Connect-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=FFD700&color=0d0d0d&labelColor=0d0d0d" width="150"/>
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:vinaybathula907@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Email-FFD700?style=for-the-badge&logo=gmail&logoColor=0d0d0d&color=FFD700&labelColor=FFD700" width="150"/>
+  <img src="https://img.shields.io/badge/Send%20an%20Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Vinay8367">
+  <img src="https://img.shields.io/badge/View%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0a0a0a,50:FFD700,100:0a0a0a&section=footer&animation=twinkling" width="100%"/>
+<img src="https://img.shields.io/badge/📱%20Mobile-%2B91%208328495664-8B7355?style=for-the-badge&labelColor=F0EBE0" alt="Mobile"/>
 
 </div>
 
+<br/>
+
 ---
 
-<p align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       FOOTER                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Vinay8367&icon=5&color=9)
+<div align="center">
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,30&section=footer&text=Thank%20you%20for%20visiting%20%E2%80%94%20Let%27s%20build%20something%20meaningful&fontSize=14&fontColor=D4C5A9&fontAlign=50&fontAlignY=65" width="100%" alt="Footer"/>
 
+</div>
